@@ -15,7 +15,6 @@
 <div align="left">
 
 If you find any issues, please report them [here](https://github.com/RATR2/storm/issues)
-
 Thanks, R4T Out.
 
 </div>
